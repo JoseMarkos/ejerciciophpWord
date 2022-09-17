@@ -1,0 +1,8 @@
+{
+  "name": "holamundo/miterabit",
+  "type": "proyect",
+  "require": {
+    "php": ">=7.4",
+    "phpoffice/phpword": "^0.18.3"  
+  }
+}
