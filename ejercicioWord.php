@@ -49,9 +49,7 @@ $fontStyle->setBold(true);
 $fontStyle->setName('Tahoma');
 $fontStyle->setSize(13);
 $myTextElement = $section->addText('"Believe you can and you\'re halfway there." (Theodor Roosevelt)');
-$myTextElement->setFontStyle($fontStyle);
-
-$myTextElement = $section->addText('Hola mundo para MiTerabit.com');
+$myTextElement = $section->addText('¡Hola mundo para MiTerabit.com!');
 $myTextElement->setFontStyle($fontStyle);
 
 // Saving the document as OOXML file...
